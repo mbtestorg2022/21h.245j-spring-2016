@@ -16,7 +16,7 @@ Citizen M. "[Shuvalov's Gazprom Dealings Under Scrutiny](https://robertamsterdam
 
 Cooke, Thea. "[Has Vladimir Putin Always Been Corrupt? And Does It Matter?](https://www.wilsoncenter.org/publication/has-vladimir-putin-always-been-corrupt-and-does-it-matter)" April 16, 2012, Kennan Institute, Wilson Center.
 
-Gokhberg, Leonid, and Vitaly Roud. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Russian Federation: A New Innovation Policy for Sustainable Growth." (PDF)](http://www.hse.ru/data/2012/08/01/1257873177/Chapter6.pdf) Chapter 6 in _The Global Innovation Index 2012_.
+Gokhberg, Leonid, and Vitaly Roud. ["The Russian Federation: A New Innovation Policy for Sustainable Growth." (PDF)](http://www.hse.ru/data/2012/08/01/1257873177/Chapter6.pdf) Chapter 6 in _The Global Innovation Index 2012_.
 
 Russian\_Village. "[Besieged Russian Minister to be Questioned](http://news.windowstorussia.com/besieged-russian-minister-to-be-questioned.html)," December 27, 2012, Russian News From Russia...
 

@@ -905,7 +905,7 @@ Politics in the Yeltsin Years – How Russia Really Works
 
 \[L\] "Conclusion."
 
-Ledeneva, Alena. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Cronies, Economic Crime and Capitalism in Putin's _Sistema._" (PDF)](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2346.2012.01062.x/pdf) _International Affairs_ 88, no. 1 (2012): 149-57.
+Ledeneva, Alena. ["Cronies, Economic Crime and Capitalism in Putin's _Sistema._" (PDF)](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2346.2012.01062.x/pdf) _International Affairs_ 88, no. 1 (2012): 149-57.
 
   ———. "Underground Financing in Russia." Chapter 4 in _Creating Social Trust in Post-Socialist Transition_. Edited by János Kornai, Bo Rothstein, and Susan Rose-Ackerman. Palgrave Macmillan, 2004. ISBN: 9781403964496.
 
@@ -925,7 +925,7 @@ Centralization Under Putin
 
 ### Readings
 
-Gorenburg, Dmitry, with H. H. Gaffney. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Great Promise Unfulfilled: How Russia Lost Its Way after Independence," (PDF)](https://csis-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/ruseur_wp_026.pdf) PONARS Working Paper No. 26, February 2006.
+Gorenburg, Dmitry, with H. H. Gaffney. ["Great Promise Unfulfilled: How Russia Lost Its Way after Independence," (PDF)](https://csis-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/media/csis/pubs/ruseur_wp_026.pdf) PONARS Working Paper No. 26, February 2006.
 
 Maass, Peter. "[The Triumph of the Quiet Tycoon](http://www.nytimes.com/2004/08/01/magazine/the-triumph-of-the-quiet-tycoon.html)." _The New York Times Magazine_, August 1, 2004.
 
@@ -987,7 +987,7 @@ Whitmore, Brian, and Robert Coalson. "[Putin Crashes Medvedev's Party](http://ww
 
 Wood, Elizabeth A. "[Russia's Anti-Putin Protests are More Than Just a Generational Temper Tantrum](http://archive.boston.com/bostonglobe/editorial_opinion/blogs/the_angle/2012/01/putins_failures.html)," January 18, 2012, The Angle, boston.com.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Who Leads Russia?" (PDF)](https://www.files.ethz.ch/isn/57181/Audit_06_08_Wood.pdf) Audit of the Conventional Wisdom, MIT Center for International Studies, June 2008.
+———. ["Who Leads Russia?" (PDF)](https://www.files.ethz.ch/isn/57181/Audit_06_08_Wood.pdf) Audit of the Conventional Wisdom, MIT Center for International Studies, June 2008.
 
 
 {{< tdclose >}}
